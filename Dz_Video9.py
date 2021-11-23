@@ -13,3 +13,10 @@ elif a > 17:
     print('Нет')
 else:
     print('Да')
+a = int(input('Во сколько лет дети обычно заканчивают университет?'))
+if a < 22:
+    print('нет')
+elif a > 22:
+    print('Нет')
+else:
+    print('Да')
