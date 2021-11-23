@@ -12,3 +12,4 @@ if a < 17:
 elif a > 17:
     print('Нет')
 else:
+    print('Да')
